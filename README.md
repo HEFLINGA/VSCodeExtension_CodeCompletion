@@ -1,6 +1,7 @@
-# CODE COMPLETE NUMBER 2, EXPERIMENTAL VERSION 4/19/23
+# Code Completion work.
+## Creation of a VS Code extension that works in similar fashion to GitHub's "CoPilot." This extension is currently using EleutherAI/gpt-neox-20b LLM.
 
-# GOALS:
+# GOALS and TASKS:
     ✅ Get more than one line of code suggestion being displayed for the user.
 
     ✅ Give users more options for suggestions to flip through. Options:
